@@ -1,1 +1,1 @@
-# Ethereum-Decentralized-Voting-App
+# ethereum-Decentralized-Voting-App
