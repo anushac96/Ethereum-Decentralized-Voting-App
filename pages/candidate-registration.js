@@ -1,7 +1,7 @@
 import React from "react";
 
 const candidateRegistration = () => {
-  return <div>candidate-registration</div>;
+  return <div>candidateRegistration</div>;
 };
 
 export default candidateRegistration;
